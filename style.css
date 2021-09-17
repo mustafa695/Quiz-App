@@ -1,0 +1,54 @@
+.container {
+    width: 50%;
+    margin: 5% auto;
+    display: none;
+}
+#ques {
+    box-shadow: -2px -1px 20px 3px rgb(0 0 0 / 6%);
+	padding: 50px 50px 100px;
+}
+p#par {
+    color: #0f2e74;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+
+button.btn2 {
+    margin-top: 20px;
+    background: #425adfd4;
+    padding: 10px 45px;
+    font-size: 18px;
+    border: 1px solid #ddd;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 8px;
+}
+h3{
+	font-size: 24px;
+	font-weight: bold;
+}
+button#submitBtn {
+    margin-top: 1rem;
+    background: cadetblue;
+    color: #fff;
+    border: 0;
+    padding: 10px 35px;
+    border-radius: 8px;
+}
+.card {
+    padding: 65px 50px 100px;
+}
+div#startQuiz {
+    width: 50%;
+    margin: 0 auto;
+    padding: 5% 0;
+}
+button.btn.btn-dark {
+    padding: 15px 60px;
+    margin-top: 5%;
+}
+.form-check-input[type=radio] {
+    border-radius: 50%;
+    margin-right: 10px;
+}
